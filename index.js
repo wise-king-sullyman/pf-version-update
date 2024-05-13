@@ -39,13 +39,17 @@ async function updateVersions(filePath, versions, preview, verbose) {
     );
   });
 
-  console.log(filePath, ": ", updates);
+  const hasUpdates = Object.keys(updates).length > 0;
+
+  if (verbose || hasUpdates) {
+    console.log(filePath, ": ", updates);
+  }
 
   if (preview) {
     return;
   }
 
-  if (Object.keys(updates).length) {
+  if (hasUpdates) {
     await writeFile(filePath, JSON.stringify(fileData));
   }
 }
