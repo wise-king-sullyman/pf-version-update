@@ -1,0 +1,19 @@
+{
+  "name": "pf-version-update",
+  "version": "1.0.0",
+  "description": "Utility to update PatternFly versions in a repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests created yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wise-king-sullyman/pf-version-update.git"
+  },
+  "author": "Austin Sullivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wise-king-sullyman/pf-version-update/issues"
+  },
+  "homepage": "https://github.com/wise-king-sullyman/pf-version-update#readme"
+}
