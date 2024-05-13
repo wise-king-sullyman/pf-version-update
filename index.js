@@ -58,7 +58,7 @@ async function main(version, options) {
   const { ignore, preview, verbose } = options;
 
   const packageFiles = await glob("**/package.json", {
-    ignore: [...ignore.split(","), "node_modules/**"],
+    ignore: [...ignore.split(","), "**/node_modules/**"],
   });
 
   verbose && console.log("Found files: ", packageFiles);
