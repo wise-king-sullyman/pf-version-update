@@ -23,6 +23,7 @@
     "@patternfly/react-charts": "8.0.0-alpha.23",
     "@patternfly/react-drag-drop": "6.0.0-alpha.43",
     "@patternfly/react-docs": "7.0.0-alpha.65",
-    "@patternfly/react-templates": "6.0.0-alpha.11"
+    "@patternfly/react-templates": "6.0.0-alpha.11",
+    "@patternfly/quickstarts": "6.0.0-alpha.1"
   }
 }
