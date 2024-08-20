@@ -25,5 +25,21 @@
     "@patternfly/react-docs": "7.0.0-alpha.65",
     "@patternfly/react-templates": "6.0.0-alpha.11",
     "@patternfly/quickstarts": "6.0.0-alpha.1"
+  },
+  "beta": {
+    "@patternfly/patternfly": "6.0.0-alpha.205",
+    "@patternfly/documentation-framework": "6.0.0-alpha.79",
+    "@patternfly/react-table": "6.0.0-alpha.101",
+    "@patternfly/react-code-editor": "6.0.0-alpha.100",
+    "@patternfly/react-core": "6.0.0-alpha.100",
+    "@patternfly/react-styles": "6.0.0-alpha.34",
+    "@patternfly/react-icons": "6.0.0-alpha.35",
+    "@patternfly/react-tokens": "6.0.0-alpha.34",
+    "@patternfly/react-charts": "8.0.0-alpha.37",
+    "@patternfly/react-drag-drop": "6.0.0-alpha.82",
+    "@patternfly/react-docs": "7.0.0-alpha.109",
+    "@patternfly/react-templates": "6.0.0-alpha.50",
+    "@patternfly/quickstarts": "6.0.0-alpha.4",
+    "@patternfly/react-component-groups": "6.0.0-alpha.12"
   }
 }
