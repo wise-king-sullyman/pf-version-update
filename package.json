@@ -1,6 +1,6 @@
 {
   "name": "pf-version-update",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Utility to update PatternFly versions in a repo",
   "scripts": {
     "test": "echo \"no tests created yet\""
