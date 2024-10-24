@@ -88,6 +88,7 @@
     "@patternfly/react-code-editor": "^6.0.0",
     "@patternfly/react-core": "^6.0.0",
     "@patternfly/react-drag-drop": "^6.0.0",
+    "@patternfly/documentation-framework": "6.0.0-alpha.120",
     "@patternfly/react-icons": "^6.0.0",
     "@patternfly/react-styles": "^6.0.0",
     "@patternfly/react-table": "^6.0.0",
